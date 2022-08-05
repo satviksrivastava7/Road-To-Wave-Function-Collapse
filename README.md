@@ -1,5 +1,5 @@
 # Road-To-Wave-Function-Collapse
-## This is a repo for my progress in wave function collapse in python.
+#### This is a repo recording my progress in wave function collapse using python!
 After watching the video on Wave Function Collapse, on the You-Tube channel 'The Coding Train', I made up my mind to create this program.
 So, I am making my way towards it!
 ## Part 1 - Random Map Generator
