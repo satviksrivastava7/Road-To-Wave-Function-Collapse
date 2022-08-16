@@ -6,11 +6,13 @@ So, I am making my way towards it!
 ## Part 1 - Random Map Generator
 The first part in this algo was a random map generator. A program that takes few roads as inputs and generates a maze like pattern based on simple set of rules!
 <br>
+<br>
 <img src="map gen\up.png">
 <img src="map gen\down.png">
 <img src="map gen\left.png">
 <img src="map gen\right.png">
 <img src="map gen\blank.png">
+<br>
 <br>
 Although, my current algo is less spontaneous, it is fine for now. 
 I will however work on improving it, and making it to be more spontaneous.
