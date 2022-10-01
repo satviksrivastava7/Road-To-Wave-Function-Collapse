@@ -30,7 +30,7 @@ Here, are some screenshots for the maps that I generated using my algorithm:
 <img src="map gen\2-1 (1).png">
 <img src="map gen\2-1 (2).png">
 <img src="map gen\2-1 (3).png">
-<img src="map gen\2-1 (4)blank.png">
+<img src="map gen\2-1 (4).png">
 <br>
 For the next part I will working on 3x3 sudoko generator, and later on to an N-size sudoko generator
 <br>
